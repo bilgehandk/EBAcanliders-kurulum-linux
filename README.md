@@ -2,7 +2,7 @@
 Wine ile .exe dosyasını linuxta çalıştırma.
 
 
-## İlk Etap
+## Linux'ta EBA Calı Ders Kurulum 
 İlk olarak linux terminali açmanız gerekiyor.<br/>
 Sonrasında termianala şu kodu yazmanız gerekiyor.
 
